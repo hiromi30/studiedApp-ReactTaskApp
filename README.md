@@ -1,3 +1,7 @@
+This is my study log.. I learn from youtube: URL:https://www.youtube.com/watch?v=cZn7g-oLPEw&list=WL&index=125&t=1617s
+
+Thanks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
